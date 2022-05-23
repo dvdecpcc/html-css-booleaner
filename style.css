@@ -1,3 +1,4 @@
+
 #patternimg{
     background-size: cover;
     background-color:rgb(79,160, 255);
@@ -11,4 +12,40 @@
     width: 10%;
     margin-top: 50px;
     margin-left: 15px;
+}
+#sp1{
+    color: lightgray;
+}
+#bool{
+    color: rgb(115, 201, 238);
+}
+#d1{
+    font-size: smaller;
+}
+table{
+    width: 100%;
+    height: 180px;
+}
+
+thead{
+    background-color: rgb(33,168,227);
+    color: white;
+}
+
+.blu{
+    background-color: rgb(177,229,242);
+}
+h4{
+    color: lightgray;
+}
+
+.cont1{
+    position: relative;
+}
+
+.topleft{
+    position: absolute;
+    color:rgb(253, 251, 251);
+    top: 8px;
+    left: 16px;
 }
